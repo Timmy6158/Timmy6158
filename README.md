@@ -1,7 +1,13 @@
 ## Hi there 👋 I'm Tim
 
 ### Full-Stack Projects
-- (Tournament management website)[https://github.com/DevEpisolon/tournamentsoftware]
+- [Tournament management website](https://github.com/DevEpisolon/tournamentsoftware)
+
+### Machine-Learning Projects
+- [Australia Rain Prediction Model](https://github.com/Timmy6158/Australia-Rain-Prediction)
+
+### Database Projects
+- [Summer Camp](https://github.com/Timmy6158/Summer-Camp-Database)
 <!--
 **Timmy6158/Timmy6158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
